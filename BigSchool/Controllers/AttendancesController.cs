@@ -14,7 +14,7 @@ namespace BigSchool.Controllers
         public ApplicationDbContext _dbContext;
         public AttendancesController()
         {
-            _dbContext = new ApplicationDbContext();////////
+            _dbContext = new ApplicationDbContext();/////////
 
 
         }
